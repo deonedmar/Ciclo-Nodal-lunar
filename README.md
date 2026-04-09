@@ -1,0 +1,1 @@
+**Este repositório contém a implementação matemática e a visualização do Ciclo Nodal Lunar, um fenômeno de 18,6 anos que modula a amplitude das marés e influencia diretamente estudos de inundação costeira e oceanografia física.**
